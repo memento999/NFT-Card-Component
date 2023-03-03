@@ -99,7 +99,7 @@ body {
 
 .nft-price img {
   height: 20px;
-  width: 18px;
+  width: 11px;
   color: cyan;
   margin-right: 4.5px;
 }
@@ -145,6 +145,10 @@ body {
 
 .creator-image {
   margin-right: 16px;
+  height: 33px;
+  width: 33px;
+  border: 1px solid #ffffff;
+  border-radius: 50%;
 }
 
 .creator-details p {
